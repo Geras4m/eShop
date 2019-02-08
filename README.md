@@ -1,6 +1,4 @@
 # eShop
-Sample online shopping application.
-
 A sample onle store web application. There are predefined categories in database and list of products. There is also add to cart function which stores cart with products in session.
 
 Used technology stack
